@@ -1,7 +1,7 @@
 # MarvelDC
 
 # Comic Characters
-[Marvel & DC](https://github.com/RakshithRAcharya/MarvelDC/blob/master/Data/MDC.jpg)
+![Marvel & DC](/Data/MDC.jpg)
 
 This folder contains data behind the story [Comic Books Are Still Made By Men, For Men And About Men](http://fivethirtyeight.com/features/women-in-comic-books/).
 
