@@ -21,6 +21,6 @@ Variable | Definition
 `SEX` | Sex of the character (e.g. Male, Female, etc.)
 `GSM` | If the character is a gender or sexual minority (e.g. Homosexual characters, bisexual characters)
 `ALIVE` | If the character is alive or deceased
-`APPEARANCES` | The number of appareances of the character in comic books (as of Sep. 2, 2014. Number will become increasingly out of date as time goes on.)
+`APPEARANCES` | The number of appareances of the character in comic books (as of Sep. 2, 2014. Number has become increasingly out of date though.)
 `FIRST APPEARANCE` | The month and year of the character's first appearance in a comic book, if available
 `YEAR` | The year of the character's first appearance in a comic book, if available
